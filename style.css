@@ -91,13 +91,14 @@
    /* footer section start from here  */
 
    .footer-section{background-color: slategray;
-                   padding: 10px 20px;
+                   padding: 25px 20px;
                    text-align: center;}
     .footer-section h6{margin-bottom: 10px;
-                      color: whitesmoke;} 
+                      color: whitesmoke;
+                      font-size: 15px;} 
      .footer-section h6 span{color: yellow;}      
      
-     .footer-section p{font-size: 10px;
+     .footer-section p{font-size: 14px;
     color: whitesmoke;}
 
 
