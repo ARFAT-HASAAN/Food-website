@@ -32,7 +32,7 @@
   .section-two{display: flex;
                 
                 padding: 0% 2%;
-                background-image: url(/images/shapes/Frame\ 57.jpg);
+                background-image: url(images/shapes/Frame57.jpg);
                  background-image: 100%;
                 background-position: left;}
   .second-sectn-div{width: 40%;
@@ -68,7 +68,7 @@
 .section-three h2{ font-size: 50px;
   margin-bottom: 30px;}
 
-  .section-three p{font-size: 40px;
+  .section-three p{font-size: 30px;
                     }
 
 /* section three end here  */
