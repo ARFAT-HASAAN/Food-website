@@ -30,19 +30,20 @@
   /* section two desing start here  */
 
   .section-two{display: flex;
-                
-                padding: 0% 2%;
+                padding: 5% 2%;
                 background-image: url(images/shapes/Frame57.jpg);
                  background-image: 100%;
                 background-position: left;}
+
   .second-sectn-div{width: 40%;
                     padding:0% 3%;
                     margin: 0% 3%;}
   .second-sectn-div img{width: 100%;}
   
-  .second-sectn-div h2{font-size: 40px;
+  .second-sectn-div h2{font-size: 50px;
                       margin:20px 0px;}
-  .second-sectn-div p{font: small;
+
+  .second-sectn-div p{font-size: 30px;
                      color: rgb(158, 166, 173);
                      margin-bottom: 15px;
                      }
