@@ -1,0 +1,103 @@
+*{margin: 0;
+  padding: 0;}
+  
+/* Top section design start from here  */
+  .top-section{display: flex;
+               padding: 2%;
+               background-image: url(/images/shapes/Frame\ 58.jpg)}
+
+  .section-top-div{width: 40%;
+                    margin : 0% 5%;}
+  .color-orange{
+                color: darkorange;}  
+                
+  .section-top-div p{font-size: small;
+                    color: rgb(158, 166, 173);
+                     margin: 30px 0px;
+                     }     
+   .order-btn{padding:  5px 20px;
+             background-image: linear-gradient(30deg,darkorange,purple);
+            color: white;
+             margin-top: 15px;
+            text-decoration: none;
+            border-radius: 50px;
+            cursor: pointer;}                           
+  
+  .section-top-div img{width: 100%;}
+
+  /* top section desing end here  */
+
+  /* section two desing start here  */
+
+  .section-two{display: flex;
+                
+                padding: 0% 2%;
+                background-image: url(/images/shapes/Frame\ 57.jpg);
+                 background-image: 100%;
+                background-position: left;}
+  .second-sectn-div{width: 40%;
+                    padding:0% 3%;
+                    margin: 0% 3%;}
+  .second-sectn-div img{width: 100%;}
+  
+  .second-sectn-div h2{font-size: 40px;
+                      margin:20px 0px;}
+  .second-sectn-div p{font: small;
+                     color: rgb(158, 166, 173);
+                     margin-bottom: 15px;
+                     }
+
+  
+  .contact-btn{padding:  5px 20px;
+             background-image: linear-gradient(30deg,darkorange,purple);
+            color: white;
+            margin: 15px 0px 0px 0px;
+            text-decoration: none;
+            border-radius: 50px;
+            cursor: pointer;}
+
+   /* sectin two end here          */
+
+   /* section three start from here  */
+  .section-three{width: 300px;
+                  padding: 15px 50px;
+                  margin: auto;
+                  text-align: center;
+                  color:seagreen;}
+
+.section-three h2{ margin-bottom: 10px;}
+
+/* section three end here  */
+
+
+
+/* sectin four star from here  */
+
+   .section-four{display: flex;
+                  padding: 2% 2%;}
+
+   .fourth-section-div{width: 30%;
+                      padding: 10px;
+                      margin: 0% 2%;
+                      box-shadow: 1px 1px 4px seagreen;;
+                    border-radius: 10px;}
+   .fourth-section-div h3{margin: 10px 0px; }                 
+   .fourth-section-div p{text-align: justify}                   
+
+   .fourth-section-div img{width: 100%;}
+
+   /* section four end here  */
+
+   /* footer section start from here  */
+
+   .footer-section{background-color: slategray;
+                   padding: 10px 20px;
+                   text-align: center;}
+    .footer-section h6{margin-bottom: 10px;
+                      color: whitesmoke;} 
+     .footer-section h6 span{color: yellow;}      
+     
+     .footer-section p{font-size: 10px;
+    color: whitesmoke;}
+
+
