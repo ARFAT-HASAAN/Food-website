@@ -10,7 +10,7 @@
   .top-section span{font-weight: 900;
                     display: block;
                   font-size: 50px;
-                  margin-bottom: 15px;}             
+                  margin-bottom: 5px;}             
 
   .section-top-div{width: 40%;
                     margin : 0% 5%;}
@@ -19,7 +19,7 @@
                 
   .section-top-div p{font-size: small;
                     color: rgb(158, 166, 173);
-                     margin: 10px 0px 45px 0px ;
+                     margin: 20px 0px 45px 0px ;
                      font-size: 25px;
                      } 
 
