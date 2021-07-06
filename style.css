@@ -4,8 +4,8 @@
 /* Top section design start from here  */
   .top-section{display: flex;
                background-image: url(images/shapes/Frame58.jpg);
-              margin: 0% 1%;}
-              
+               padding: 10px;}
+
    #top-fdiv-id{margin-top: 50px;
                 vertical-align: middle;}            
 
