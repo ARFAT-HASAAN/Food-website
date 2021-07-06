@@ -82,9 +82,11 @@
                       box-shadow: 1px 1px 4px seagreen;;
                     border-radius: 10px;}
    .fourth-section-div h3{margin: 15px 0px;
-                          font-weight: bold;}                 
+                          font-weight: bold;
+                          font-size: 25px;}                 
    .fourth-section-div p{text-align: justify;
-                         line-height: 15px;}                   
+                         line-height: 22px;
+                         font-size: 22px;}                   
 
    .fourth-section-div img{width: 100%;}
 
