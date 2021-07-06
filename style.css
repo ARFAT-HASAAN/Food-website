@@ -3,19 +3,21 @@
   
 /* Top section design start from here  */
   .top-section{display: flex;
-               background-image: url(images/shapes/Frame58.jpg)}
+               background-image: url(images/shapes/Frame58.jpg);
+              margin: 0% 1%;}
+              
    #top-fdiv-id{margin-top: 50px;
                 vertical-align: middle;}            
 
   .top-section span{font-weight: 900;
                     display: block;
-                  font-size: 50px;
-                  margin-bottom: 5px;}             
+                   font-size: 50px;
+                   margin-bottom: 5px;}             
 
   .section-top-div{width: 40%;
-                    margin : 0% 5%;}
-  .color-orange{
-                color: darkorange;}  
+                   margin : 0% 5%;}
+
+  .color-orange{color: darkorange;}  
                 
   .section-top-div p{font-size: small;
                     color: rgb(158, 166, 173);
@@ -26,7 +28,6 @@
    .order-btn{padding:  15px 25px;
              background-image: linear-gradient(30deg,darkorange,purple);
             color: white;
-             
             text-decoration: none;
             border-radius: 50px;
             cursor: pointer;}                           
@@ -46,6 +47,7 @@
   .second-sectn-div{width: 40%;
                     padding:0% 3%;
                     margin: 0% 3%;}
+
   .second-sectn-div img{width: 100%;}
   
   .second-sectn-div h2{font-size: 50px;
@@ -61,7 +63,6 @@
              background-image: linear-gradient(30deg,darkorange,purple);
             color: white;
             font-size: 25px;
-            
             text-decoration: none;
             border-radius: 50px;
             cursor: pointer;}
@@ -76,7 +77,7 @@
                   color:seagreen;}
 
 .section-three h2{ font-size: 50px;
-  margin-bottom: 30px;}
+                  margin-bottom: 30px;}
 
   .section-three p{font-size: 30px;
                     }
@@ -94,7 +95,8 @@
                       padding: 10px;
                       margin: 0% 2%;
                       box-shadow: 1px 1px 4px seagreen;;
-                    border-radius: 10px;}
+                      border-radius: 10px;}
+
    .fourth-section-div h3{margin: 20px 0px;
                           font-weight: bold;
                           font-size: 33px;
@@ -102,7 +104,6 @@
    .fourth-section-div p{text-align: justify;
                          font-size: 22px;
                          color: rgb(158, 166, 173);
-                         
                          vertical-align: middle;}                   
 
    .fourth-section-div img{width: 100%;}
@@ -114,12 +115,16 @@
    .footer-section{background-color: slategray;
                    padding: 25px 20px;
                    text-align: center;}
+
     .footer-section h6{margin-bottom: 10px;
                       color: whitesmoke;
                       font-size: 15px;} 
+
      .footer-section h6 span{color: yellow;}      
      
      .footer-section p{font-size: 14px;
-    color: whitesmoke;}
+                       color: whitesmoke;}
+
+     /* footer section end here  */
 
 
