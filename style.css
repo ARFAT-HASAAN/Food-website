@@ -81,8 +81,10 @@
                       margin: 0% 2%;
                       box-shadow: 1px 1px 4px seagreen;;
                     border-radius: 10px;}
-   .fourth-section-div h3{margin: 10px 0px; }                 
-   .fourth-section-div p{text-align: justify}                   
+   .fourth-section-div h3{margin: 15px 0px;
+                          font-weight: bold;}                 
+   .fourth-section-div p{text-align: justify;
+                         line-height: 5px;}                   
 
    .fourth-section-div img{width: 100%;}
 
