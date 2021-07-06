@@ -83,9 +83,11 @@
                     border-radius: 10px;}
    .fourth-section-div h3{margin: 15px 0px;
                           font-weight: bold;
-                          font-size: 25px;}                 
+                          font-size: 33px;
+                          text-align: center;}                 
    .fourth-section-div p{text-align: justify;
-                         font-size: 18px;}                   
+                         font-size: 22px;
+                         color:rgb(207, 207, 207);}                   
 
    .fourth-section-div img{width: 100%;}
 
